@@ -10,17 +10,15 @@ show_call_box: true
 
 # Local Digital Twins for Smart & Sustainable Communities
 
-Better city and community services with local digital twins 
+LDT4SSC creates a network of connected digital models of cities and communities across Europe, or in technical terms, an **ecosystem of interoperable Local Digital Twins (LDTs)**. 
+Our project builds on European initiatives for secure data and smart cities, such as GAIA X, the Local Digital Twin toolbox and Data Spaces for Smart Cities and Communities. It aligns with the CitiVERSE -virtual cities- and helps European cities and communities to tackle climate change, energy efficiency, air quality, resource management via shared digital tools and trusted Artificial Intelligence.
 
-## Project Description:  
-LDT4SSC is driving the next wave of smart community innovation by creating an **ecosystem of interoperable Local Digital Twins (LDTs)** across Europe. Building on initiatives like the EU LDT Toolbox, Data Spaces for Smart Cities and Communities (DS4SSCC) and GAIA-X (a European initiative for secure and trustworthy data infrastructure) and aligned with CitiVERSE (a virtual twin environment for cities and communities for urban planning and citizen engagement), this project will enable European regions to address key challenges such as climate change, air quality, energy efficiency and resource management through shared digital capabilities and ethical Artificial Intelligence (AI) services.
 
-## 3 Key Goals:  
-<p>
+## 3 Key goals:  
 
-1. AI-Driven Services: Developing advanced AI solutions tailored to real-world community needs.  
-2. Interoperability Blueprint: Connecting LDTs across sectors and borders with a common data and integration framework.  
-3. Sustainable Digital Innovation: Promoting ethical AI, open standards and fair digital markets aligned with EU Digital Decade goals.  
+1. AI-services for communities: developing advanced AI solutions that solve real problems for people and places.  
+2. Interoperability blueprint: making sure local digital twins can connect and share data across sectors and countries.   
+3. Fair and sustainable digital innovation: using ethical AI, open standards and fair digital markets in line with Europe's Digital Decade goals.  
 
 </p>
 
