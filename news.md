@@ -10,8 +10,7 @@ show_call_box: true
 
 # News & Events
 
-**Stay informed. Stay involved.**
+**Get involved, stay informed.**
 
-Welcome to the central hub for all updates related to the LDT4SSC project,  the latest announcements, project milestones, events, publications and community highlights.
-
-As we work toward building a European network of interoperable Local Digital Twins, this page will showcase our progress, spotlight innovations from pilot projects and highlight opportunities for engagement.
+Welcome to the central hub for all updates related to the LDT4SSC project. 
+This page will showcase our progress, spotlight innovations from pilot projects and highlight opportunities for engagement.
